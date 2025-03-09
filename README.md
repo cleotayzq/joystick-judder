@@ -1,7 +1,9 @@
 # joystick-judder
 
-MATLAB, Psychtoolbox, and a sony dualsense controller—what could possibly go wrong?
+behold, a haiku:
 
-For when you want frame-perfect precision… with a joystick.
+MATLAB, Psychtoolbox,
+a ps5 controller—
+halp i need a life.
 
-Halp I need a life.
+For when you want frame-perfect precision… with a joystick. What could possibly go wrong?
